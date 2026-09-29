@@ -1,4 +1,4 @@
-public class Task04 {
+public class DataTypes {
     public static void main(String[] args){
         Double age=30.5;
         System.out.println(age);
