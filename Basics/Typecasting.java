@@ -1,4 +1,4 @@
-public class Task06 {
+public class Typecasting {
     public static void main(String[] args){
 
        char b='a';
@@ -8,7 +8,7 @@ public class Task06 {
         System.out.println(z);
     }
 }
-public class Task07 {
+public class Typecasting {
     public static void main(String[] args){
         int A=Integer.parseInt("12"); //convert string to a number
         int B=Integer.parseInt("11");
