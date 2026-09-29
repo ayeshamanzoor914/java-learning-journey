@@ -1,4 +1,4 @@
-public class Task08 {
+public class Operators {
     public static void main(String[] args){
         System.out.println(Math.pow(2,10));
         System.out.println(7.0/2.0);
