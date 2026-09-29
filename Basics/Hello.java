@@ -1,5 +1,5 @@
 
-public class Task02{
+public class Hello{
     public static void main(String[] args){
         System.out.println("Hello Java!");
         System.out.println("A");
@@ -7,10 +7,10 @@ public class Task02{
     }
 }
 
-//public class Task02{
-//    public static void main(String[] args){
-//        System.out.print("Hello Java!");
-//        System.out.print("A");
-//        System.out.print("B");
-//    }
-//}
+public class Hello{
+   public static void main(String[] args){
+       System.out.print("Hello Java!");
+       System.out.print("A");
+       System.out.print("B");
+   }
+}
