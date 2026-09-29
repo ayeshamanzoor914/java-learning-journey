@@ -1,4 +1,4 @@
-public class Task05 {
+public class basic {
     public static void main(String[] args){
         long big=300000000L;
         System.out.println(big);
@@ -11,7 +11,7 @@ public class Task05 {
     }
 
     }
-public class Task03 {
+public class  basic {
     public static void main(String[] args){
         System.out.println("She said:\"hi\""); //for inverted commas
         System.out.println("path: C:\\temp"); // for 1 slash
